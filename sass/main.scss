@@ -1,0 +1,21 @@
+@import "variables";
+
+body
+{
+  color: #000;
+  background: $color_primario;
+}
+
+h1
+{
+  color: $color_titulos;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.clientes
+{
+  color: #000;
+  background-color: #fff;
+}
+
+@import "menu";
